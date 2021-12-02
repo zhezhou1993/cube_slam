@@ -31,6 +31,7 @@
 
 #include "Converter.h"
 #include <thread>
+#include <unistd.h>
 #include <pangolin/pangolin.h>
 #include "Parameters.h"
 #include "ORBVocabulary.h"

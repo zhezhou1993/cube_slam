@@ -25,6 +25,7 @@
 #include <iostream>
 #include <mutex>
 #include <vector>
+#include <unistd.h>
 
 #include "Frame.h"
 #include "KeyFrame.h"

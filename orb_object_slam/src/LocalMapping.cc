@@ -34,6 +34,7 @@
 // by me
 #include <ctime>
 #include <algorithm> // std::random_shuffle
+#include <unistd.h>
 #include "tictoc_profiler/profiler.hpp"
 #include "MapObject.h"
 

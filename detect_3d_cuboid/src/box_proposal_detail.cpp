@@ -7,7 +7,7 @@
 #include <string>
 #include <sstream>
 #include <ctime>
-
+#include <numeric>
 // opencv pcl
 #include <opencv/cv.h>
 #include <opencv2/core/core.hpp>

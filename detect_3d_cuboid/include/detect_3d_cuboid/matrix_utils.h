@@ -1,5 +1,5 @@
 #pragma once
-
+#include <vector>
 // Eigen
 #include <Eigen/Core>
 #include <Eigen/Dense>
